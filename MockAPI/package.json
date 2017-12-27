@@ -1,0 +1,14 @@
+{
+  "name": "mockapi",
+  "version": "1.0.0",
+  "description": "Mock API for creating new alexa skill to tell bus times",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rowan",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
